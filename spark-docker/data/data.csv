@@ -1,0 +1,5 @@
+"invoiceseq","invoiceUrl","date_of_purchase","txn_id","user_email","base_amount","total_amount","igstTaxableAmount","user_state","refund_processed","cgstTaxableAmount","sgstTaxableAmount","user_gstin","legal_name"
+"AZZIRR2200004531","https://d3r0n59fu7ub44.cloudfront.net/invoicer/TYPEB/2024-07-02/66843f83c208fc0bdd87bbbf.pdf","02-07-2024 23:27","66843f83c208fc0bdd87bbbf","sreenivassree8@gmail.com","2499.15",2949,"449.85","Tamil Nadu",false,,,,
+"AZZIRR2200004530","https://d3r0n59fu7ub44.cloudfront.net/invoicer/TYPEB/2024-07-02/66843d0ef623480bcfcc98a2.pdf","02-07-2024 23:16","66843d0ef623480bcfcc98a2","jayanth.gundagoni98@gmail.com","1440.68",1700,"259.32","Telangana",false,,,,
+"AZZIRR2200004529","https://d3r0n59fu7ub44.cloudfront.net/invoicer/TYPEB/2024-07-02/668424ed380ba40bd38be6e1.pdf","02-07-2024 21:33","668424ed380ba40bd38be6e1","raunak77mm@gmail.com","2499.15",2949,"449.85","Massachusetts",false,,,,
+"AZZIRR2200004528","https://d3r0n59fu7ub44.cloudfront.net/invoicer/TYPEB/2024-07-02/6683e7632ef4bd0bc26b2da5.pdf","02-07-2024 17:11","6683e7632ef4bd0bc26b2da5","vrushabjain@gmail.com","1440.68",1700,,"Maharashtra",false,"129.66","129.66",,
